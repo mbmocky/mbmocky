@@ -1,4 +1,4 @@
-## Ola!! Eu sou o Moises Borges!!!
+## Ola!! Eu sou o Moises Borges, e o intuito desse repositório é o de compartilhar alguns códigos desenvolvidos em meus cursos, graduações e especializações efetuados(as).
 
 <div align="center">
   <a href="https://github.com/mbmocky">
